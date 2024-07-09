@@ -1,0 +1,479 @@
+{
+    "name": "Aniruddh Dubge",
+    "login": "AnuPlayz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/120038186?v=4",
+    "bio": "i write code",
+    "company": "N/A",
+    "location": "India",
+    "email": "N/A",
+    "website": "aniruddh.xyz",
+    "twitter": "N/A",
+    "followersCount": 23,
+    "followingCount": 4,
+    "publicRepos": 30,
+    "publicGists": 4,
+    "createdAt": "2022-12-07T15:27:42Z",
+    "updatedAt": "2024-06-24T03:13:33Z",
+    "repositories": [
+        {
+            "name": "aadhaar-verify",
+            "link": "https://github.com/AnuPlayz/aadhaar-verify",
+            "description": "N/A",
+            "languages": [
+                "TypeScript",
+                "JavaScript",
+                "CSS"
+            ],
+            "stars": 0,
+            "forks": 0,
+            "watchers": 0,
+            "license": "N/A",
+            "lastCommitDate": "2024-03-19T13:26:12Z",
+            "commitsCount": 90
+        },
+        {
+            "name": "animax",
+            "link": "https://github.com/AnuPlayz/animax",
+            "description": "N/A",
+            "languages": [
+                "JavaScript",
+                "TypeScript"
+            ],
+            "stars": 2,
+            "forks": 0,
+            "watchers": 2,
+            "license": "N/A",
+            "lastCommitDate": "2023-11-09T19:07:53Z",
+            "commitsCount": 45
+        },
+        {
+            "name": "AnuPlayz",
+            "link": "https://github.com/AnuPlayz/AnuPlayz",
+            "description": "Config files for my GitHub profile.",
+            "languages": [
+                "JavaScript"
+            ],
+            "stars": 1,
+            "forks": 1,
+            "watchers": 1,
+            "license": "N/A",
+            "lastCommitDate": "2024-07-01T12:36:49Z",
+            "commitsCount": 670
+        },
+        {
+            "name": "anya",
+            "link": "https://github.com/AnuPlayz/anya",
+            "description": "N/A",
+            "languages": [
+                "TypeScript",
+                "Solidity",
+                "JavaScript",
+                "CSS"
+            ],
+            "stars": 1,
+            "forks": 0,
+            "watchers": 1,
+            "license": "N/A",
+            "lastCommitDate": "2024-03-20T00:33:49Z",
+            "commitsCount": 5089
+        },
+        {
+            "name": "atharv-farm",
+            "link": "https://github.com/AnuPlayz/atharv-farm",
+            "description": "gayhub repo for atharv form",
+            "languages": [
+                "HTML"
+            ],
+            "stars": 0,
+            "forks": 0,
+            "watchers": 0,
+            "license": "N/A",
+            "lastCommitDate": "2024-01-16T15:50:19Z",
+            "commitsCount": 10
+        },
+        {
+            "name": "Basic-C-Programs",
+            "link": "https://github.com/AnuPlayz/Basic-C-Programs",
+            "description": "N/A",
+            "languages": [
+                "C++",
+                "C"
+            ],
+            "stars": 0,
+            "forks": 0,
+            "watchers": 0,
+            "license": "N/A",
+            "lastCommitDate": "2023-09-16T04:14:51Z",
+            "commitsCount": 39
+        },
+        {
+            "name": "calc-bot",
+            "link": "https://github.com/AnuPlayz/calc-bot",
+            "description": "N/A",
+            "languages": [
+                "JavaScript"
+            ],
+            "stars": 0,
+            "forks": 0,
+            "watchers": 0,
+            "license": "N/A",
+            "lastCommitDate": "2023-08-27T16:28:54Z",
+            "commitsCount": 25
+        },
+        {
+            "name": "chatbored",
+            "link": "https://github.com/AnuPlayz/chatbored",
+            "description": "A real time chatting application using socketio , express , nodejs and basic html css",
+            "languages": [
+                "JavaScript",
+                "HTML",
+                "CSS"
+            ],
+            "stars": 0,
+            "forks": 0,
+            "watchers": 0,
+            "license": "MIT License",
+            "lastCommitDate": "2023-08-05T04:50:31Z",
+            "commitsCount": 2404
+        },
+        {
+            "name": "citronics",
+            "link": "https://github.com/AnuPlayz/citronics",
+            "description": "The official website for citronics 2024",
+            "languages": [
+                "HTML",
+                "JavaScript",
+                "CSS"
+            ],
+            "stars": 0,
+            "forks": 0,
+            "watchers": 0,
+            "license": "N/A",
+            "lastCommitDate": "2024-02-22T08:53:12Z",
+            "commitsCount": 42403
+        },
+        {
+            "name": "E-Rakshak",
+            "link": "https://github.com/AnuPlayz/E-Rakshak",
+            "description": "https://e-rakshak.vercel.app/",
+            "languages": [
+                "TypeScript",
+                "Solidity",
+                "JavaScript",
+                "CSS"
+            ],
+            "stars": 0,
+            "forks": 0,
+            "watchers": 0,
+            "license": "N/A",
+            "lastCommitDate": "2024-01-20T16:08:30Z",
+            "commitsCount": 191
+        },
+        {
+            "name": "GenAI-Main",
+            "link": "https://github.com/AnuPlayz/GenAI-Main",
+            "description": "N/A",
+            "languages": [
+                "TypeScript",
+                "CSS",
+                "JavaScript"
+            ],
+            "stars": 0,
+            "forks": 0,
+            "watchers": 0,
+            "license": "N/A",
+            "lastCommitDate": "2024-06-13T20:34:48Z",
+            "commitsCount": 369
+        },
+        {
+            "name": "genesis",
+            "link": "https://github.com/AnuPlayz/genesis",
+            "description": "N/A",
+            "languages": [
+                "Vue",
+                "JavaScript",
+                "Solidity",
+                "CSS",
+                "HTML"
+            ],
+            "stars": 0,
+            "forks": 0,
+            "watchers": 0,
+            "license": "N/A",
+            "lastCommitDate": "2024-01-31T09:18:31Z",
+            "commitsCount": 5977
+        },
+        {
+            "name": "genshin-bot",
+            "link": "https://github.com/AnuPlayz/genshin-bot",
+            "description": "N/A",
+            "languages": [
+                "JavaScript"
+            ],
+            "stars": 0,
+            "forks": 0,
+            "watchers": 0,
+            "license": "N/A",
+            "lastCommitDate": "2023-09-01T17:41:12Z",
+            "commitsCount": 2856
+        },
+        {
+            "name": "genshin-cards",
+            "link": "https://github.com/AnuPlayz/genshin-cards",
+            "description": "N/A",
+            "languages": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "stars": 0,
+            "forks": 0,
+            "watchers": 0,
+            "license": "N/A",
+            "lastCommitDate": "2023-08-06T18:15:12Z",
+            "commitsCount": 35221
+        },
+        {
+            "name": "Global-Passport-NFT",
+            "link": "https://github.com/AnuPlayz/Global-Passport-NFT",
+            "description": "The AttestationStation is a simple and unified way to make attestations on OP Mainnet, OP Goerli, or any other OP Stack-based chain.",
+            "languages": [
+                "TypeScript",
+                "Solidity"
+            ],
+            "stars": 2,
+            "forks": 0,
+            "watchers": 2,
+            "license": "N/A",
+            "lastCommitDate": "2023-08-13T08:33:31Z",
+            "commitsCount": 145
+        },
+        {
+            "name": "hackwave",
+            "link": "https://github.com/AnuPlayz/hackwave",
+            "description": "N/A",
+            "languages": [
+                "JavaScript",
+                "CSS",
+                "GLSL",
+                "HTML"
+            ],
+            "stars": 0,
+            "forks": 0,
+            "watchers": 0,
+            "license": "N/A",
+            "lastCommitDate": "2024-04-07T16:58:05Z",
+            "commitsCount": 10898
+        },
+        {
+            "name": "julep",
+            "link": "https://github.com/AnuPlayz/julep",
+            "description": "Open-source alternative to Assistant's API with a managed backend for memory, RAG, tools and tasks.                            ~Supabase for building AI agents.",
+            "languages": [
+                "Python",
+                "TypeScript",
+                "Jupyter Notebook",
+                "Jinja",
+                "Dockerfile",
+                "Shell",
+                "HTML"
+            ],
+            "stars": 0,
+            "forks": 0,
+            "watchers": 0,
+            "license": "Apache License 2.0",
+            "lastCommitDate": "2024-06-05T15:09:26Z",
+            "commitsCount": 39367
+        },
+        {
+            "name": "leetcode-chrome-extension",
+            "link": "https://github.com/AnuPlayz/leetcode-chrome-extension",
+            "description": "N/A",
+            "languages": [
+                "TypeScript",
+                "HTML",
+                "CSS",
+                "Shell"
+            ],
+            "stars": 1,
+            "forks": 0,
+            "watchers": 1,
+            "license": "N/A",
+            "lastCommitDate": "2023-01-17T14:46:56Z",
+            "commitsCount": 996
+        },
+        {
+            "name": "nexus-dashboard",
+            "link": "https://github.com/AnuPlayz/nexus-dashboard",
+            "description": "N/A",
+            "languages": [
+                "TypeScript",
+                "CSS",
+                "JavaScript"
+            ],
+            "stars": 0,
+            "forks": 0,
+            "watchers": 0,
+            "license": "N/A",
+            "lastCommitDate": "2024-05-27T01:53:43Z",
+            "commitsCount": 3359
+        },
+        {
+            "name": "nexus-read",
+            "link": "https://github.com/AnuPlayz/nexus-read",
+            "description": "A manga hosting website which lets you upload your self made manga and uses ai to filter its tags and wether if its NSFW or not.",
+            "languages": [
+                "TypeScript",
+                "JavaScript",
+                "CSS"
+            ],
+            "stars": 2,
+            "forks": 0,
+            "watchers": 2,
+            "license": "N/A",
+            "lastCommitDate": "2024-01-09T15:25:25Z",
+            "commitsCount": 3450
+        },
+        {
+            "name": "NexusTech-backend",
+            "link": "https://github.com/AnuPlayz/NexusTech-backend",
+            "description": "N/A",
+            "languages": [
+                "TypeScript"
+            ],
+            "stars": 0,
+            "forks": 0,
+            "watchers": 0,
+            "license": "N/A",
+            "lastCommitDate": "2023-01-17T11:18:51Z",
+            "commitsCount": 43
+        },
+        {
+            "name": "password",
+            "link": "https://github.com/AnuPlayz/password",
+            "description": "N/A",
+            "languages": [
+                "TypeScript",
+                "CSS",
+                "JavaScript"
+            ],
+            "stars": 0,
+            "forks": 0,
+            "watchers": 0,
+            "license": "N/A",
+            "lastCommitDate": "2024-02-27T15:57:24Z",
+            "commitsCount": 94
+        },
+        {
+            "name": "pokedex",
+            "link": "https://github.com/AnuPlayz/pokedex",
+            "description": "The Pokedex project is an interactive web application that serves as a digital encyclopedia for Pokemon enthusiasts and players.",
+            "languages": [
+                "SCSS",
+                "CSS",
+                "JavaScript",
+                "HTML"
+            ],
+            "stars": 0,
+            "forks": 0,
+            "watchers": 0,
+            "license": "MIT License",
+            "lastCommitDate": "2023-08-04T05:16:20Z",
+            "commitsCount": 1756
+        },
+        {
+            "name": "portfolio",
+            "link": "https://github.com/AnuPlayz/portfolio",
+            "description": "idk maybe my portfolio website",
+            "languages": [
+                "SCSS",
+                "HTML",
+                "JavaScript"
+            ],
+            "stars": 0,
+            "forks": 0,
+            "watchers": 0,
+            "license": "N/A",
+            "lastCommitDate": "2024-01-19T13:33:00Z",
+            "commitsCount": 12354
+        },
+        {
+            "name": "prayatna",
+            "link": "https://github.com/AnuPlayz/prayatna",
+            "description": "N/A",
+            "languages": [
+                "TypeScript",
+                "Solidity",
+                "JavaScript",
+                "CSS"
+            ],
+            "stars": 1,
+            "forks": 0,
+            "watchers": 1,
+            "license": "N/A",
+            "lastCommitDate": "2024-03-20T01:57:55Z",
+            "commitsCount": 4508
+        },
+        {
+            "name": "techkareer",
+            "link": "https://github.com/AnuPlayz/techkareer",
+            "description": "N/A",
+            "languages": [
+                "TypeScript",
+                "CSS",
+                "JavaScript"
+            ],
+            "stars": 0,
+            "forks": 0,
+            "watchers": 0,
+            "license": "Other",
+            "lastCommitDate": "2024-06-27T01:03:10Z",
+            "commitsCount": 9989
+        },
+        {
+            "name": "valorantpicker",
+            "link": "https://github.com/AnuPlayz/valorantpicker",
+            "description": "N/A",
+            "languages": [
+                "TypeScript",
+                "CSS",
+                "JavaScript"
+            ],
+            "stars": 3,
+            "forks": 0,
+            "watchers": 3,
+            "license": "N/A",
+            "lastCommitDate": "2024-02-05T03:50:36Z",
+            "commitsCount": 8470
+        },
+        {
+            "name": "venti-shortner",
+            "link": "https://github.com/AnuPlayz/venti-shortner",
+            "description": "N/A",
+            "languages": [
+                "JavaScript"
+            ],
+            "stars": 0,
+            "forks": 0,
+            "watchers": 0,
+            "license": "N/A",
+            "lastCommitDate": "2023-09-13T01:39:03Z",
+            "commitsCount": 0
+        },
+        {
+            "name": "VoteChain",
+            "link": "https://github.com/AnuPlayz/VoteChain",
+            "description": "a decentralized voting app built on smart contracts for transparent and secure elections.",
+            "languages": [
+                "TypeScript",
+                "Solidity"
+            ],
+            "stars": 0,
+            "forks": 0,
+            "watchers": 0,
+            "license": "N/A",
+            "lastCommitDate": "2023-08-20T10:06:01Z",
+            "commitsCount": 85
+        }
+    ]
+}
